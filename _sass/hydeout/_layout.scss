@@ -25,6 +25,7 @@
 body {
   color: rgba(255,255,255,.75);
   background-color: $sidebar-bg-color;
+  background-image: url("/psyc3450/BC_logo.png");
   background-image: linear-gradient(
     to bottom,
     lighten($sidebar-bg-color, 70%),

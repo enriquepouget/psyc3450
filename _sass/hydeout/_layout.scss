@@ -26,10 +26,7 @@ body {
   color: rgba(255,255,255,.75);
   background-color: $sidebar-bg-color;
   background-image: url("/psyc3450/BC_logo.png");
-  background-image: linear-gradient(
-    to bottom,
-    lighten($sidebar-bg-color, 70%),
-    darken($sidebar-bg-color, 7%)),url("/psyc3450/BC_logo.png");
+  background-image: linear-gradient(to bottom, rgba(135,36,69,0.7) 0%,rgba(135,36,69,0.7) 100%),url("/psyc3450/BC_logo.png");
   display: flex;
   flex-direction: column;
   min-width: 100vw;

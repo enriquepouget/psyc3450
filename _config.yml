@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            CCP
-tagline:          'Cognitive & Comparative Psychology'
-description:      'Cognitive & Comparative Psychology at CUNY'
+title:            Psyc 3450
+tagline:          'Experimental Psychology'
+description:      'Experimental Psychology'
 url:              'https://crumplab.github.io'
-baseurl:          '/hydeout' # the optional subpath of your site, e.g. "/blog"
+baseurl:          '/psyc3450' # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
@@ -51,9 +51,9 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:           https://github.com/crumplab/hydeout
+  repo:           https://github.com/crumplab/psyc3450
 
 disqus:
-  shortname:      CCP
+  shortname:      psyc3450
 
-google_analytics: 
+google_analytics:

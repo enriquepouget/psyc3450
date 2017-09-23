@@ -1,6 +1,7 @@
 ---
 layout: category
 title: Resources
+faicon: <i class="fa fa-diamond" aria-hidden="true"></i>
 ---
 
 ## Zotero

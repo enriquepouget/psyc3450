@@ -2,6 +2,7 @@
 layout: category
 title: Textbook
 sidebar_link: true
+faicon: <i class="fa fa-book" aria-hidden="true"></i>
 ---
 
 The textbook for this course is free and open-source. The web-based version of the textbook can be accessed here:

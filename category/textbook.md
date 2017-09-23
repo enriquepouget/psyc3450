@@ -9,6 +9,6 @@ The textbook for this course is free and open-source. The web-based version of t
 
 [https://crumplab.github.io/ResearchMethods/](https://crumplab.github.io/ResearchMethods/)
 
-You can also download a .pdf version of the textbook by clicking the .pdf icon on the top of the textbook page.
+A [.pdf download is available here](https://crumplab.github.io/ResearchMethods/Methods_Crump.pdf) and from within the web-book.
 
 Read the preface of the textbook to learn how to use [hypothesis](https://web.hypothes.is) to post comments about the textbook as you read it.
